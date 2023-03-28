@@ -20,7 +20,7 @@ const Resume = () => {
                                 </a> the resume.
                             </p>
                         </article>
-                        <iframe src="https://drive.google.com/file/d/1GuKpv0XPfAAcQ86eKsFEIpnTKRU1KxfU/preview" className={styles.resumeDoc} allow="autoplay" title="Cliff's Resume 2022"></iframe>
+                        <iframe src="https://drive.google.com/file/d/19ZsjOlrQat533prZ5AVfy0Wlm8x3Ff9B/preview" className={styles.resumeDoc} allow="autoplay" title="Cliff's Resume 2022"></iframe>
                     </div>
                 </div>
             </div>

@@ -13,13 +13,15 @@ const Main = () => {
                         I'm 
                         <TypeAnimation
                             sequence={[
-                                'a Software Developer', // Types 'One'
+                                'a Developer', // Types 'One'
                                 2000, // Waits 1s
-                                'a 5-star hospitality expert', // Types 'One'
-                                2000, // Waits 1s
-                                'a Classical guitarist', // Types 'One'
+                                'a Classical Guitarist', // Types 'One'
                                 2000, // Waits 1s
                                 'a weightlifter', // Types 'One'
+                                2000, // Waits 1s
+                                'a Tech Enthusiast',
+                                2000,
+                                'a 5-star hospitality expert', // Types 'One'
                                 2000, // Waits 1s
                                 'a Team Leader',
                                 2000, // Waits 1s
