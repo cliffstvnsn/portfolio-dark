@@ -42,8 +42,8 @@ a:hover {
     height: 100vh;
     margin-bottom: 15px;
     width: 100%;
-    display: flex;
-    justify-content: center;
+    /* display: flex;
+    justify-content: center; */
 }
 
 .resumeDoc {
@@ -55,7 +55,7 @@ a:hover {
     .resumeDoc {
         width: 22rem;
         height: 28rem;
-        margin-left: 3.5rem;
+        /* margin-left: 3.5rem; */
     }
 
     .header {
